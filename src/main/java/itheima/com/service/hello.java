@@ -1,4 +1,4 @@
 package itheima.com.service;
 
-public class wwww {
+public class hello {
 }
